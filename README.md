@@ -10,7 +10,7 @@ No arquivo teste_calculadora.py estão os testes unitários utilizando a bibliot
 
 Instalando a biblioteca Mutpy é possivel utilizar o teste de mutação. Através do Mutpy, ele utilizará os 2 arquivos para fazer a mutação do código.
 
-mut.py --target calculadora --unit-test teste_calculadora -m --runner unittest
+codigo utilizado para fazer o teste de mutação: mut.py --target calculadora --unit-test teste_calculadora -m --runner unittest
 
 Target: o arquivo que rodará os casos de teste.
 Unit-test: o arquivo que utilizará os testes unitários. 
